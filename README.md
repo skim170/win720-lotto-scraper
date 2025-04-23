@@ -25,7 +25,7 @@ pip install requests beautifulsoup4
 
 Run the Script
 ```bash
-python lotto_scraper.py
+python pension_lotto_scraper.py
 ```
 
 ### 🔍 Example Output
